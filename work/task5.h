@@ -1,0 +1,1 @@
+int getSum(int buf[], int SIZE);

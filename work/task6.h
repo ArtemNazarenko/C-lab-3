@@ -1,0 +1,1 @@
+int getSumMinMax(int buf[], int SIZE);
